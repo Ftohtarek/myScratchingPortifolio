@@ -664,7 +664,7 @@ width: 32%;
 }
 @media screen and (max-width:567px){
     #blog .col{
-        width: 85%;
+        width: 95%;
         margin:10px auto;
      }
      #blog iframe{
